@@ -1,5 +1,5 @@
 (lang dune 3.13)
-
+(generate_opam_files true)
 (name libbpf)
 (source
  (github koonwen/ocaml-libbpf))

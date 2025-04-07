@@ -28,8 +28,6 @@
   dune
   (ctypes
    (>= 0.22.0))
-  ppx_deriving
-  ppx_expect
   conf-libbpf
   conf-bpftool
   conf-clang)
